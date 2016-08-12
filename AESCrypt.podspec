@@ -1,10 +1,10 @@
 
 Pod::Spec.new do |s|
-  s.name         = "AESCrypt"
+  s.name         = "AESCryptObjC"
   s.version      = "1.0.0"
   s.summary      = "Fork from AESCrypt-ObjC"
   s.description  = <<-DESC
-                   Fork from AESCrypt-ObjC
+                   AESCrypt-ObjC fork
                    DESC
   s.homepage     = "http://lijinchao.sinaapp.com"
   s.license      = "MIT"
